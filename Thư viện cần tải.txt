@@ -1,0 +1,10 @@
+1.4.2. Thư viện Python
+	Tkinter: Tạo giao diện đồ họa cho ứng dụng một cách dễ dàng
+	Mysql connector: Kết nối với cơ sở dữ liệu (pip install mysql-connector-python)
+	PIL : Thư viện để sử dụng hình ảnh (pip install pillow)
+	Datetime: Kiểm tra ngoại lệ về thời gian
+	Re: Dùng để kiểm tra ký tự hoặc số
+	Matplotlib: Tạo đồ thị thống kê (pip install matplotlib)
+	python-docx: cho phép tạo, sửa, và lưu các tài liệu Microsoft Word (pip install python-docx)
+	subprocess: cho phép  tạo ra các tiến trình con để thực thi các lệnh hệ thống, tương tự như việc chạy lệnh trong terminal hoặc command prompt
+	os: cung cấp nhiều chức năng để tương tác với hệ điều hành.
